@@ -7,6 +7,7 @@ Bus. So basically, passenger need to carry NFC card with them. As soon as they e
 ![picture alt](NFC%20images/Login%20Page.jpg "Login Page")
 
 2. This is the Second activity where the Conductor enter the Wrong details for login,then Authentication error is occurred:
+
 ![picture alt](NFC%20images/Authentication%20Failed.png "Authentication Failed")
 
 3. This is the Third activity where the Conductor get the Starting the page of the Application. This page show the Conductor Authentication has been done successful:
