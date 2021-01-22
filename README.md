@@ -10,6 +10,7 @@ Bus. So basically, passenger need to carry NFC card with them. As soon as they e
 ![picture alt](NFC%20images/Authentication%20Failed.png "Authentication Failed")
 
 3. This is the Third activity where the Conductor get the Starting the page of the Application. This page show the Conductor Authentication has been done successful:
+
 ![picture alt](NFC%20images/Authentication%20Successful.png "Authentication Successful")
 
 4. This is the Fourth activity where the Conductor Tap the Nfc Card of the Passenger for the Ticketing purpose. Nfc Card Detected And Conductor get all the details of the Passenger:
